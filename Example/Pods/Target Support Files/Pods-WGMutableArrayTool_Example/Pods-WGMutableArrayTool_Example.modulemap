@@ -1,0 +1,6 @@
+framework module Pods_WGMutableArrayTool_Example {
+  umbrella header "Pods-WGMutableArrayTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module WGMutableArrayTool {
+  umbrella header "WGMutableArrayTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
